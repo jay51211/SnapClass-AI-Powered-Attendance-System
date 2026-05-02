@@ -12,6 +12,8 @@ setuptools<70.0.0
 supabase
 bcrypt
 
+resemblyzer
+
 segno
 pillow
 
