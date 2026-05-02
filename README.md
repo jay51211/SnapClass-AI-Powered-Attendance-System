@@ -65,7 +65,7 @@ Teacher creates session
      │     │
      └──┬──┘
         ▼
-   Both pass? ✅
+   Pass? ✅
    Marked Present
 ```
 
