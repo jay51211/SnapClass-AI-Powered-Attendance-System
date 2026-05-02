@@ -22,6 +22,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-F5A623?style=for-the-badge)](LICENSE)
 
 <br/>
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Try%20Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://snapclass-ai-powered-attendance-system.streamlit.app/)
 
 [**🚀 Getting Started**](#-getting-started) &nbsp;·&nbsp;
 [**🧠 How the AI Works**](#-how-the-ai-works) &nbsp;·&nbsp;
