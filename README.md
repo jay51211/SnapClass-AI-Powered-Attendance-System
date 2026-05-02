@@ -511,9 +511,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br/>
 
-Built with ❤️ by **[Jay](https://github.com/jay51211)**
-
-Inspired by [Shradha Khapra](https://github.com/shradha-khapra) · [Apna College](https://www.apnacollege.in/)
+Built by **[Jay](https://github.com/jay51211)**
 
 <br/>
 
