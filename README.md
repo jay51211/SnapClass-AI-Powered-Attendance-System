@@ -20,9 +20,9 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![dlib](https://img.shields.io/badge/dlib-Face%20AI-0078D4?style=for-the-badge)](http://dlib.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F5A623?style=for-the-badge)](LICENSE)
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Try%20Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://snapclass-ai-powered-attendance-system.streamlit.app/)
 
 <br/>
-[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Try%20Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://snapclass-ai-powered-attendance-system.streamlit.app/)
 
 [**🚀 Getting Started**](#-getting-started) &nbsp;·&nbsp;
 [**🧠 How the AI Works**](#-how-the-ai-works) &nbsp;·&nbsp;
