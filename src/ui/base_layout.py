@@ -79,7 +79,7 @@ def style_base_layout():
                 
             h3, h4, p {
                 font-family: 'Lato', sans-serif;    
-                color: #495057 !important;
+                color: #34495E !important;
             }
                 
 
